@@ -1,6 +1,6 @@
 "use client";
 
-function Horario() {
+function Pensum2() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen py-2">
       <h1 className="text-2xl font-bold mb-4">Plan de Estudio</h1>
@@ -23,4 +23,4 @@ function Horario() {
   );
 }
 
-export default Horario;
+export default Pensum2;
